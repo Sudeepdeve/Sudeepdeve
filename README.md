@@ -50,11 +50,7 @@ When I'm not coding or creating, you'll find me:
 - 🎮 Gaming online
 - 🏃 Staying active and fit
 
-## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 ## 🤝 Let's Connect
 
@@ -67,4 +63,4 @@ I'm always excited to collaborate on interesting projects or discuss creative id
 
 ---
 
-⭐️ From [yourusername](https://github.com/yourusername) | *"Curiosity drives improvement, creativity brings ideas to life"*
+ *"Curiosity drives improvement, creativity brings ideas to life"*
