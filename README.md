@@ -1,6 +1,6 @@
 # Hi there, I'm Sudeep Lamichhane 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/yourusername)
+
 
 ## 🚀 About Me
 
@@ -14,15 +14,18 @@ I'm a **passionate multi-talented creator** from Pokhara, Nepal, who loves explo
 ## 💻 Tech Stack & Skills
 
 ### Programming & Development
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 ### Creative Tools
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+![CapCut](https://img.shields.io/badge/-CapCut-000000?style=flat&logo=capcut&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-9999FF?style=flat&logo=adobe-premiere-pro&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
-![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white)
+
 
 ### Areas of Expertise
 - 🎬 **Video Editing** - Creating engaging visual content
@@ -64,4 +67,4 @@ I'm always excited to collaborate on interesting projects or discuss creative id
 
 ---
 
- *"Curiosity drives improvement, creativity brings ideas to life"*
+⭐️ From [yourusername](https://github.com/yourusername) | *"Curiosity drives improvement, creativity brings ideas to life"*
