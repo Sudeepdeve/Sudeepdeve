@@ -1,82 +1,67 @@
-<h1 align="center">Hi, I'm Sudeep Lamichhane 👋</h1>
-<h3 align="center">Aspiring Software Engineer | Tech Learner | Student from Pokhara, Nepal</h3>
+# Hi there, I'm Sudeep Lamichhane 👋
 
----
+[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/yourusername)
 
-## 🔥 About Me
-I’m **Sudeep Lamichhane**, a Class 11 Science student from **Pokhara, Nepal**, passionate about programming, technology, and building tools that help students learn better.
+## 🚀 About Me
 
-I love solving problems, creating websites, and exploring how AI can make education easier. Every day, I focus on improving my skills and working towards becoming a top software engineer.
+I'm a **passionate multi-talented creator** from Pokhara, Nepal, who loves exploring the intersection of creativity and technology. Whether it's building electronics projects, crafting animations, or writing code, I approach every challenge with dedication and enthusiasm.
 
----
+- 🎂 Born: September 29, 2009
+- 📍 Location: Parsyang, Pokhara, Nepal
+- 🌱 Currently learning and growing in multiple domains
+- 💡 Believer in continuous learning and balanced growth
 
-## 🛠️ Skills & Tools
-**Languages & Web Dev**
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp" />
-</p>
+## 💻 Tech Stack & Skills
 
-**Other Skills**
-- Technical troubleshooting (ZKTeco attendance & time systems)
-- DNS / domain setup (.com.np handling)
-- Basic Unity learning
-- Problem solving & logical thinking
+### Programming & Development
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
----
+### Creative Tools
+![Adobe Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-9999FF?style=flat&logo=adobe-premiere-pro&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
+![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white)
 
-## 🚀 What I'm Doing Now
-- Building **AI-powered math & science learning tools**
-- Creating a **student study helper website**
-- Learning **Unity** for app development
-- Preparing for **scholarship entrance exams**  
-- Enhancing my programming foundation (C, C++, JS)
+### Areas of Expertise
+- 🎬 **Video Editing** - Creating engaging visual content
+- 🎨 **Graphic Design** - Bringing ideas to visual life
+- 🎥 **Animation** - Crafting dynamic motion graphics
+- ⚡ **Electronics & Science Projects** - Building innovative solutions
+- 💻 **Coding** - Developing functional applications
 
----
+## 🎯 What I'm Working On
 
-## 📚 Current Learning Journey
-- Web development (HTML → CSS → JavaScript)
-- Strong base in C and C++  
-- Starting game/app development with Unity  
-- Understanding cloud deployment, Git, and GitHub  
-- Exploring AI in Nepali education
+- Building creative projects that merge technology and art
+- Expanding my coding skills across multiple languages
+- Experimenting with electronics and embedded systems
+- Creating content through video editing and animation
 
----
+## 🌟 Beyond Code
 
-## 📂 Featured Projects
-### 🔸 Student Study Helper Website  
-An education-focused platform designed to help students with notes, AI tools, and exam practice.
+When I'm not coding or creating, you'll find me:
 
-### 🔸 Entrance Exam Prep Tools  
-Small tools to help analyze and practice for Physics, Chemistry, Math, and English.
-
-### 🔸 AI Tools for Students  
-Custom AI prompts for solving SEE and Class 11 problems.
-
-*(More projects coming as I grow!)*
-
----
+- ⚽ Playing football
+- 🥋 Practicing karate
+- 🎮 Gaming online
+- 🏃 Staying active and fit
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudeep-lamichhane&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudeep-lamichhane&theme=tokyonight" height="165" />
-</p>
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+## 🤝 Let's Connect
+
+I'm always excited to collaborate on interesting projects or discuss creative ideas!
+
+- 📧 Email: sudeeplamichhane92@gmail.com
+- 📱 Phone: +977 9845533445
+- 🌐 Portfolio: [sudeep-lamichhane.com.np](https://sudeep-lamichhane.com.np/)
+- 👤 Facebook: [Sudeep Lamichhane](https://www.facebook.com/sudeeplamichhane.13)
 
 ---
 
-## 📫 Contact Me
-- **Email:** your-email@example.com  
-- **Portfolio:** Coming soon  
-- **Social:** *(Add your links here)*
-
----
-
-## ☕ Support Me
-If you like my work or want to motivate a young learner like me:
-
-**Buy Me a Coffee:**  
-👉 *Add your link here later*
-
----
-
-<h3 align="center">✨ Always learning. Always improving. Building the future step by step. ✨</h3>
+ *"Curiosity drives improvement, creativity brings ideas to life"*
