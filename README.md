@@ -22,7 +22,7 @@ I’m **Sudeep Lamichhane**, a passionate multi-talented creator from Pokhara, N
 I love combining **technology and creativity**—from electronics projects to animations and coding.
 
 * 🎂 **Born:** September 29, 2009
-* 📍 **Location:** Parsyang, Pokhara, Nepal
+* 📍 **Location:** Parsyang-5, Pokhara, Nepal
 * 🌱 **Currently Learning:** Programming, Electronics, AI, Web Development
 * 💡 **Belief:** Continuous learning and balanced growth
 
@@ -80,9 +80,7 @@ I love combining **technology and creativity**—from electronics projects to an
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudeepdeve&layout=compact&theme=tokyonight" height="180" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudeepdeve&theme=tokyonight" />
-</p>
+
 
 ---
 
@@ -91,7 +89,7 @@ I love combining **technology and creativity**—from electronics projects to an
 * 🥉 Science & Innovation Projects (School Level)
 * 🧠 Electronics & Arduino-based systems
 * 🌐 Web development projects
-* 🎯 Preparing for advanced programming and engineering skills
+* 🎯 Preparing for advanced programming 
 
 ---
 
@@ -99,8 +97,8 @@ I love combining **technology and creativity**—from electronics projects to an
 
 | Project Name                  | Description                           | Tech Used             |
 | ----------------------------- | ------------------------------------- | --------------------- |
-| 🔥 Disaster Detection System  | IoT-based natural disaster monitoring | Arduino, GSM, Sensors |
-| 🤖 AI Math Solver             | Nepali curriculum-based AI chatbot    | JavaScript, AI        |
+| 🔥 Integrated Disaster Management System  | IoT-based natural disaster monitoring | Arduino, GSM, Sensors ,Buzzer|
+| 🤖 Smart Nepal            | Website that connects the three goverment level federal,state & local | JavaScript, AI,Graphical representation through python,and Database management        |
 | 🌐 Personal Portfolio Website | Professional developer portfolio      | HTML, CSS, JS         |
 | ⚡ Electronics Projects        | Innovative science models             | Arduino, Sensors      |
 
@@ -121,7 +119,7 @@ I love combining **technology and creativity**—from electronics projects to an
   <a href="mailto:sudeeplamichhane92@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Sudeepdeve"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://sudeep-lamichhane.com.np"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.facebook.com/sudeeplamichhane.13/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
 📱 Phone: +977 9845533445
