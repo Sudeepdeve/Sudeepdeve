@@ -86,12 +86,7 @@ I love combining **technology and creativity**—bridging the gap between electr
 <h2 align="center">📊 GitHub Stats & Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sudeepdeve&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Sudeepdeve's Trophies" />
-</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sudeepdeve&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Sudeepdeve's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudeepdeve&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudeepdeve&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
